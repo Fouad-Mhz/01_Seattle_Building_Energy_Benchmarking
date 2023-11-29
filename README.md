@@ -1,4 +1,4 @@
-# Seattle-Building_Energy_Benchmarking
+# Seattle Building Energy Prediction
 
 ## Project Overview
 
